@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "html5css3", ".", "{05068E45
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "11412"
+		SlnRelativePath = "..\html5css3\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
